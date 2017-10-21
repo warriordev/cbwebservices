@@ -10,7 +10,7 @@ if (isset($_POST["user_id"]) && $_POST["user_id"] != "") {
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Service</title>
+        <title>cbwebservice</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/themes/base/jquery-ui.css" type="text/css" media="all"/>
